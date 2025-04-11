@@ -8,7 +8,7 @@ REPORT Z_READ_EMP.
 
 TABLES ZEMPLOYEE.
 
-*&-----------------------------------------S----------------------------*
+*&-----------------------------------------S-----------------------------*
 * Field catalog and layout
 DATA: it_fcat  TYPE slis_t_fieldcat_alv,
       wa_fcat  TYPE slis_fieldcat_alv,
