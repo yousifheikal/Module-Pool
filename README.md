@@ -9,3 +9,7 @@ As part of my SAP ABAP learning journey, I developed a custom Module Pool applic
 ✅ Custom Z Table: ZEMPLOYEE     ✅ Screen & Subscreen Design
 ✅ GUI Status & Title Management ✅ PBO (Process Before Output) / PAI (Process After Input)
 ✅ CHAIN...ENDCHAIN & Field Validation
+
+
+### 🧾 Table: ZEMPLOYEE Structure
+![Image](https://github.com/user-attachments/assets/d321e141-c777-47a8-8c58-97b8befbede8)
