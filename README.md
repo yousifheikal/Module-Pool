@@ -15,6 +15,14 @@ As part of my SAP ABAP learning journey, I developed a custom Module Pool applic
 
 ✅ CHAIN...ENDCHAIN & Field Validation
 
+✨ Application Features  
+
+🔍 View all employees in a custom screen               🧩 Cleanly separated business logic using OOABAP 
+
+➕ Create a new employee record with input validations 📝 Update existing employee data
+
+❌ Delete employee record with confirmation            🔄 Clear form & Refresh list dynamically
+
 
 ### 🧾 Table: ZEMPLOYEE Structure
 ![Image](https://github.com/user-attachments/assets/d321e141-c777-47a8-8c58-97b8befbede8)
