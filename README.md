@@ -5,6 +5,8 @@
 
 As part of my SAP ABAP learning journey, I developed a custom Module Pool application that allows Create, Read, Update, and Delete (CRUD) operations on an Employee Customize table using Object-Oriented ABAP (OOABAP). This project simulates a real-world SAP GUI transaction with full backend logic.
 
+━━━ ✦❘༻༺❘✦ ━━━ ━━━ ✦❘༻༺❘✦ ━━━ 
+
 🛠 Technologies & Concepts Used
 
 ✅ Object-Oriented ABAP (OOABAP) ✅ Module Pool (Dialog Programming) 
@@ -15,6 +17,8 @@ As part of my SAP ABAP learning journey, I developed a custom Module Pool applic
 
 ✅ CHAIN...ENDCHAIN & Field Validation
 
+━━━ ✦❘༻༺❘✦ ━━━ ━━━ ✦❘༻༺❘✦ ━━━ 
+
 ✨ Application Features  
 
 🔍 View all employees in a custom screen               🧩 Cleanly separated business logic using OOABAP 
@@ -23,6 +27,8 @@ As part of my SAP ABAP learning journey, I developed a custom Module Pool applic
 
 ❌ Delete employee record with confirmation            🔄 Clear form & Refresh list dynamically
 
+
+━━━ ✦❘༻༺❘✦ ━━━ ━━━ ✦❘༻༺❘✦ ━━━ 
 
 ### 🧾 Table: ZEMPLOYEE Structure
 ![Image](https://github.com/user-attachments/assets/d321e141-c777-47a8-8c58-97b8befbede8)
