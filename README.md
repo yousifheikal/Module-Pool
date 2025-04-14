@@ -2,7 +2,7 @@
 💼 SAP ABAP Module Pool Project – CRUD Operations on Employee Table
 
 <h2>[Watch Demo Video on Google Drive]</h2>
- <p align="center" >(https://drive.google.com/drive/u/2/home)</p>
+ <p align="center" target = '_blank'>(https://drive.google.com/drive/u/2/home)</p>
 
 📌 Overview
 
