@@ -8,7 +8,6 @@ As part of my SAP ABAP learning journey, I developed a custom Module Pool applic
 <h2>🎬 Watch the demo video on Google Drive </h2>
  <p align="center" target = '_blank'>(https://drive.google.com/drive/u/2/home)</p>
 
-━━━ ✦❘༻༺❘✦ ━━━ ━━━ ✦❘༻༺❘✦ ━━━ 
 
 🛠 Technologies & Concepts Used
 
