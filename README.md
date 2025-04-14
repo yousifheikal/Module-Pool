@@ -1,8 +1,6 @@
 # Module Pool & OOABAP Project
 💼 SAP ABAP Module Pool Project – CRUD Operations on Employee Table
 
-[![Watch the video](https://img.youtube.com/vi/<VIDEO_ID>/0.jpg)](https://www.youtube.com/watch?v=<VIDEO_ID>)
-
 📌 Overview
 
 As part of my SAP ABAP learning journey, I developed a custom Module Pool application that allows Create, Read, Update, and Delete (CRUD) operations on an Employee Customize table using Object-Oriented ABAP (OOABAP). This project simulates a real-world SAP GUI transaction with full backend logic.
