@@ -24,11 +24,11 @@ As part of my SAP ABAP learning journey, I developed a custom Module Pool applic
 
 ✨ Application Features  
 
-🔍 View all employees in a custom screen               🧩 Cleanly separated business logic using OOABAP 
+🔍 View all employees in a custom screen                                      🧩 Cleanly separated business logic using OOABAP 
 
-➕ Create a new employee record with input validations 📝 Update existing employee data
+➕ Create a new employee record with input validations                         📝 Update existing employee data
 
-❌ Delete employee record with confirmation            🔄 Clear form & Refresh list dynamically
+❌ Delete employee record Or Delete All Employess with confirmation            🔄 Clear form & Refresh list dynamically
 
 
 ━━━ ✦❘༻༺❘✦ ━━━ ━━━ ✦❘༻༺❘✦ ━━━ 
