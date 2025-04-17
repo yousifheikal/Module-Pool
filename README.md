@@ -36,6 +36,8 @@ As part of my SAP ABAP learning journey, I developed a custom Module Pool applic
 ### 🧾 Table: ZEMPLOYEE Structure
 ![Image](https://github.com/user-attachments/assets/d321e141-c777-47a8-8c58-97b8befbede8)
 
+### 📝 Table Enable In SM30
+![Image](https://github.com/user-attachments/assets/b1989848-4a9d-4f0f-92d9-5e908ee81a51)
 
 ### 🔍 Search Help
 ![Image](https://github.com/user-attachments/assets/d3911188-fd51-49b2-bf44-fb1421d95ab9)
